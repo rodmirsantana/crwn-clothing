@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": false,
+  "javascript.format.enable": false,
+  "eslint.alwaysShowStatus": true,
+  "eslint.options": {
+    "extensions": [ ".html", ".js", ".jsx" ]
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+  },
+  "compile-hero.disable-compile-files-on-did-save-code": true
+}
